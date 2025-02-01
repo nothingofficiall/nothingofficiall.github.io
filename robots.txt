@@ -73,7 +73,7 @@
         <h1>C!PH3R HERE</h1>
         <p>Welcome to the world of cryptography and coding!</p>
               iodj{kwwsv://zzz.sulphylghr.frp/ghwdlo/Pu-Urerw/0O52TGBB6RJ738OE7LOS0YE7U4}
-                                   <-- .../hintz/hint.txt -->
+                                   <-- .../..z/hint.txt -->
         <button class="button" onclick="alert('Stay tuned for more!')">Click Me</button>
         <div class="extra-content">Enjoy exploring secrets of the digital world!</div>
         <div class="links">
