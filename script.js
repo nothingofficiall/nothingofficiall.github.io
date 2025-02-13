@@ -85,7 +85,7 @@
     function fillerFunction5() { return "Why are you reading this?"; }
     function fillerFunction6() { return "Stop looking, there's nothing here."; }
     function fillerFunction7() { return "Just padding out this file."; }
-    function fillerFunction8() { return "ZmxhZ3t0aDNfbDRzdF9wdXp6bDNfMXNfczBsdjNkfQ0K" }
+    function fillerFunction8() { return "flag{th3_l4st_puzzl3_1s_s0lv3d}" }
     function fillerFunction9() { return "You're still reading?"; }
     function fillerFunction10() { return "Okay, I respect your dedication."; }
     function fillerFunction11() { return "Seriously though, stop."; }
