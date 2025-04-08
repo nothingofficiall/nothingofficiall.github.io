@@ -5,7 +5,7 @@ and whispered the right words into the void. 💻🌒
 🕵️‍♂️ Your forensics senses are sharp — the hidden path was yours to uncover.
 No keys, no locks, just clever brute-force and curiosity.
 
-🔓 Flag captured: ctf{1_am_n00b}
+🔓 Flag captured: ctu{1_am_n00b}
 
 But hey... if that’s what a “n00b” can do,
 the real 1337s should be worried. 😏🔥
