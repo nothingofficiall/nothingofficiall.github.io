@@ -1,17 +1,11 @@
-"Level 2 mastered with wisdom and might,
-Your cyber skills shine ever so bright! ⚔️💻"
+🎉 Congratulations, Skript_K1ddy! 🎉
+You followed the shadows, peeked behind the bytes,
+and whispered the right words into the void. 💻🌒
 
-----------------------------------------------
+🕵️‍♂️ Your forensics senses are sharp — the hidden path was yours to uncover.
+No keys, no locks, just clever brute-force and curiosity.
 
-🔓 The final challenge awaits—only the keen-eyed will prevail! 🏴‍☠️🔍
-📂 Access: https://nothingofficiall.github.io/............./
-💡 Hint: The script holds the key, but only those who analyze it will see... 👀💻
+🔓 Flag captured: ctf{1_am_n00b}
 
-----------------------------------------------
-
-*HINT*
-
-"Through scripts unseen, the flag resides,
-Not in the open, but where code hides.
-Search through the lines, don’t be misled,
-For in the script, the truth is spread." 🔍💻
+But hey... if that’s what a “n00b” can do,
+the real 1337s should be worried. 😏🔥
